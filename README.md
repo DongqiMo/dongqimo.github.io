@@ -17,8 +17,8 @@ images/                    Images and videos
 
 Plain HTML/CSS — no build step. Edit any `.html` file directly and push; GitHub Pages redeploys automatically.
 
-## Adding a CV
-Put your PDF at `cv.pdf` in the repo root, then uncomment the `<iframe>` block in `cv.html`.
+## Updating the CV
+The CV page (`cv.html`) shows the resume as text, with a download button for `Dongqi_Mo_Resume.pdf`. To update: replace the PDF (same file name) and edit the text in `cv.html`.
 
 ## Preview locally
 ```bash
